@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b04f1e3f-f43f-493d-a236-5fd255aa48cb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Demo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,7 +21,11 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="50">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+              <folding>
+                <element signature="e#63#64#0" expanded="true" />
+                <element signature="e#82#83#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,8 +76,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="565" />
-    <option name="y" value="44" />
+    <option name="x" value="810" />
+    <option name="y" value="59" />
     <option name="width" value="1118" />
     <option name="height" value="917" />
   </component>
@@ -152,7 +156,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586429082690</updated>
       <workItem from="1586429085467" duration="325000" />
-      <workItem from="1586429451155" duration="940000" />
+      <workItem from="1586429451155" duration="1574000" />
     </task>
     <task id="LOCAL-00001" summary="this is test">
       <created>1586429792429</created>
@@ -175,14 +179,22 @@
       <option name="project" value="LOCAL" />
       <updated>1586429999530</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="this is test">
+      <created>1586430399870</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586430399870</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1265000" />
+    <option name="totallyTimeSpent" value="1899000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="565" y="44" width="1118" height="917" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23863636" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -257,7 +269,11 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding>
+            <element signature="e#63#64#0" expanded="true" />
+            <element signature="e#82#83#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
